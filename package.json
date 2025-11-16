@@ -19,7 +19,7 @@
     "framer-motion": "^10.3.2",
     "lightgallery": "^2.7.1",
     "moment": "^2.29.4",
-    "react": "^18.2.0",
+    "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.43.5",
     "react-icons": "^4.8.0",
